@@ -21,6 +21,7 @@ It is designed for learners and developers who want to understand how to write c
 ---
 
 ## 📂 Project Structure
+```
 multithreading-cpp/
 │── basics/
 │ ├── create_thread.cpp
@@ -38,3 +39,4 @@ multithreading-cpp/
 │ └── async_future.cpp
 │
 └── README.md
+```
