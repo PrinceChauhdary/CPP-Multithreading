@@ -21,3 +21,20 @@ It is designed for learners and developers who want to understand how to write c
 ---
 
 ## 📂 Project Structure
+multithreading-cpp/
+│── basics/
+│ ├── create_thread.cpp
+│ ├── thread_args.cpp
+│ └── detach_join.cpp
+│
+│── synchronization/
+│ ├── mutex_example.cpp
+│ ├── lock_guard_example.cpp
+│ └── condition_variable.cpp
+│
+│── advanced/
+│ ├── producer_consumer.cpp
+│ ├── thread_pool.cpp
+│ └── async_future.cpp
+│
+└── README.md
